@@ -14,7 +14,7 @@ public class TableOrder : MonoBehaviour
     public void SetOrder(string tableNumber, List<FoodMenuItem> food)
     {
         tableNumText.text = tableNumber;
-        string foodList = $"Order: ";
+        string foodList = $"«¿ ¿«: ";
         if (food.Count != 0)
         {
             for (int i = 0; i < food.Count - 1; i++) foodList += $"{food[i].Name}, ";
