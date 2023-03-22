@@ -14,7 +14,7 @@ public class Table : MonoBehaviour
         set
         {
             _tableNumber = value;
-            tmpText.text = $"Table {value}";
+            tmpText.text = $"—“ŒÀ»  {value}";
         }
     }
     public FoodTray FoodTray;

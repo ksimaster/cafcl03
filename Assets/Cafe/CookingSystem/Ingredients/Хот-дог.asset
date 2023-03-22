@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 34a43e4e8f6a43dcbb2797d9ceb2b183, type: 3}
-  m_Name: Pancakes
+  m_Name: "\u0425\u043E\u0442-\u0434\u043E\u0433"
   m_EditorClassIdentifier: 
-  _name: Pancakes
-  color: {r: 1, g: 0.6636347, b: 0.20392156, a: 1}
-  Ingredient: {fileID: 3158413836551723814, guid: b7ed38ec0fb30ca49a4831edd6111729, type: 3}
+  _name: "\u0425\u043E\u0442-\u0434\u043E\u0433"
+  color: {r: 0.35294116, g: 1, b: 0.90124846, a: 1}
+  Ingredient: {fileID: 7795931134544042933, guid: e24bec98b1debe7479b2d38a21397db7, type: 3}
