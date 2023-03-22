@@ -22,4 +22,9 @@ public class SelectedMenuItemDisplay : MonoBehaviour
         string text = $"{item.Name}\n";
         return text;
     }
+
+    private void Update()
+    {
+        button.interactable = text.text == "" ? false : true;
+    }
 }
