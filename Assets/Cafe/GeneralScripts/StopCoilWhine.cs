@@ -8,7 +8,7 @@ public class StopCoilWhine : MonoBehaviour
     void Start()
     {
         QualitySettings.vSyncCount = 0;
-        Application.targetFrameRate = 60;
+        Application.targetFrameRate = 999;
         Cursor.lockState = CursorFree ? CursorLockMode.Confined : CursorLockMode.Locked;
         Cursor.visible = CursorFree;
     }
