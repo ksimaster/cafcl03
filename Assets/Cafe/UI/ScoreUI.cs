@@ -16,8 +16,8 @@ public class ScoreUI : MonoBehaviour
     void Update()
     {
         var timeSince = time - (Time.time - startTime);
-        timerText.text = $"Time Left: {Mathf.Floor(timeSince / 60)}:{Mathf.Floor(timeSince % 60).ToString("00")}";
-        scoreText.text = $"Score: {restaurant.score}";
+        timerText.text = $"Времени до закрытия: {Mathf.Floor(timeSince / 60)}:{Mathf.Floor(timeSince % 60).ToString("00")}";
+        scoreText.text = $"Заработано: {restaurant.score}";
         if (timeSince <= 0) SceneManager.LoadScene(restaurant.score < scoreNeeded ? "FailedScene" : "SuccessScene");
     }
 }
