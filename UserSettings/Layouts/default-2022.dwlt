@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 128
+  controlID: 125
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,8 +311,7 @@ MonoBehaviour:
     m_SaveData: []
   m_SearchFilter:
     m_NameFilter: 
-    m_ClassNames:
-    - Material
+    m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_VersionControlStates: []
@@ -323,23 +322,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Cafe/Quaternius/Furniture
+    - Assets/StarterAssets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Cafe/Quaternius/Furniture
+  - Assets/StarterAssets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Adun\Documents\GitHub\cafcl03
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 6aa20000
-    m_LastClickedID: 41578
-    m_ExpandedIDs: 00000000d6a100000ca2000022a2000054a2000000ca9a3bffffff7f
+    m_SelectedIDs: 3ca20000
+    m_LastClickedID: 41532
+    m_ExpandedIDs: 000000000ea2000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d6a10000
+    m_ExpandedIDs: 000000000ea20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -419,7 +418,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 879}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 210
@@ -504,24 +503,24 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 1370}
-      m_SelectedIDs: e8660000ca6d00001e6e0000ec680000326a0000587200002c730000ca710000a6720000186e0000c8680000ee660000fc6e000088730000fe7200009069000072660000ce6e0000f6700000
-      m_LastClickedID: 28918
-      m_ExpandedIDs: a8f1ffffa8f5ffff42f7ffff0cf8fffffefafffffe660000026a00006e6b0000b66b0000ca6b0000e66b0000ec6c00002e6e0000e26f00002c71000070730000de730000
+      scrollPos: {x: 0, y: 122}
+      m_SelectedIDs: 18e8ffff
+      m_LastClickedID: -6120
+      m_ExpandedIDs: 14f1ffff1cf1fffffefaffffe06b0000026d000010740000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Point Light (21)
-        m_OriginalName: Point Light (21)
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -290814
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 4
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -873,9 +872,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 119.37868, y: -5.1626472, z: 97.93742}
+    m_Target: {x: 7.927974, y: 2.7642272, z: -12.629936}
     speed: 2
-    m_Value: {x: 119.37868, y: -5.1626472, z: 97.93742}
+    m_Value: {x: 7.927974, y: 2.7642272, z: -12.629936}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -921,13 +920,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.019807287, y: 0.38041788, z: -0.007866592, w: 0.92465776}
+    m_Target: {x: -0.022550737, y: 0.292563, z: 0.0072644507, w: 0.9560447}
     speed: 2
-    m_Value: {x: 0.021192448, y: 0.38037452, z: -0.008436679, w: 0.9245513}
+    m_Value: {x: -0.019562738, y: 0.30971786, z: 0.0067390744, w: 0.95060337}
   m_Size:
-    m_Target: 80.624596
+    m_Target: 3.0322652
     speed: 2
-    m_Value: 80.624596
+    m_Value: 3.0322652
   m_Ortho:
     m_Target: 0
     speed: 2
